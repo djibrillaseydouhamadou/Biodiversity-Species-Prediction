@@ -1,6 +1,5 @@
 # Biodiversity-Species-Prediction
 Machine learning project predicting species presence using TerraClimate data and soil variables. Developed with Python, Scikit-learn, and Pandas
-# Biodiversity-Species-Prediction
 
 ## 🎯 Project Objective
 This project focuses on predicting species presence by analyzing complex environmental datasets. The goal was to build a robust machine learning model to support biodiversity conservation efforts by identifying key environmental drivers.
